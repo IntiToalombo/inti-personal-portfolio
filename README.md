@@ -1,2 +1,5 @@
-# inti-personal-portfolio
-This repository contains projects I have completed 
+#Projects
+This folder showcases projects I have completed.
+## Contents
+* [Project 1](project_1)
+* [Project 2](project_2)
