@@ -1,5 +1,5 @@
 # Projects
 This folder showcases projects I have completed.
 ## Contents
-* [Project 1](project_1)
-* [Project 2](project_2)
+* [Population Growth](https://github.com/IntiToalombo/inti-personal-portfolio/tree/main/projects/llamas) It is a simple program that determines how long it takes for a population to reach a particualr size.
+
